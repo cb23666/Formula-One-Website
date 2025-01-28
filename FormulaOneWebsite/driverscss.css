@@ -1,0 +1,47 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: red;
+}
+
+body{
+    background-color:rgb(3, 3, 3);
+}
+
+
+table {
+    width: 97%;
+    color: #131212;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+
+
+table th {
+    background-color: #0e0d0d;
+    color: rgb(241, 238, 238);
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #c71d1d;
+    
+}
+
+
+table td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+
+table tr {
+    background-color: #f2f2f2;
+}
+
+
+.table-title {
+    color: #fd0404; 
+    font-size: 24px; 
+    text-align: center;
+    margin-bottom: 10px; 
+}

@@ -1,0 +1,26 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+    color:red
+}
+
+
+.Subheading h2{
+    display: inline;
+    margin: 145px;
+    color:white;
+}
+
+#history{
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    color:white;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+
+body{
+    background-color: black;
+}
+

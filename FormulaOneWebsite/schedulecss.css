@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: red;
+}
+
+p {
+    font-size: 20px;
+    color:white;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+
+h3{
+    font-size: 30px;
+    text-align:left;
+    color: red;
+}
+
+#status{
+    font-size: 20px;
+    color:red;
+    text-indent: 50px;
+    line-height: 1.5;
+}

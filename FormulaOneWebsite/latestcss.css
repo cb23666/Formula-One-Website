@@ -1,0 +1,49 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: red;
+}
+
+body{
+    background-color: black;
+}
+
+
+#alonso {
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+
+#infoAlonso{
+    font-size: 20px;
+    color:white;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+
+#HeadingHamilton{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+
+#Hamilton{
+    font-size: 20px;
+    color:white;
+    text-indent: 50px;
+    line-height: 1.5;
+}
+
+#ricciardo{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+
+#ricciardocarerr{
+    font-size: 20px;
+    color:white;
+    text-indent: 50px;
+    line-height: 1.5;
+}

@@ -1,0 +1,43 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: red;
+}
+
+body{
+    background-color:black;
+}
+
+p{
+    color: white;
+}
+
+.table{
+    color: white;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+tr{
+    color: white;
+}
+
+th{
+    color: red;
+}
+
+td{
+    color: white;
+}
+
+table, th, td{
+    border:2px solid white;
+    padding:10px;
+    text-align: center;
+}
+
+script{
+    color:white;
+}
